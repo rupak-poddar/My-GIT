@@ -8,6 +8,8 @@ public class MyClass {
 		System.out.println("Hello, this is Limpa Poddar!");
 		System.out.println("Hello, this is Anesh Poddar!");
 		System.out.println("Hello, this is Adhir Poddar!");
+		System.out.println("Hello, this is Rita Poddar!");
+
 
 	}
 
